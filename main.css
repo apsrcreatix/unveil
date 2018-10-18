@@ -1,0 +1,36 @@
+/* 
+font-family: 'IBM Plex Serif',
+serif;
+font-family: 'IBM Plex Mono',
+monospace;
+ */
+ /* 
+ UI GRADIENT
+ background: #f5af19;
+ background: -webkit-linear-gradient(to right, #f12711, #f5af19);
+ background: linear-gradient(to right, #f12711, #f5af19);
+
+ */
+ *{
+    font-family: 'IBM Plex Mono',
+    monospace;
+ }
+/* Default Classes */
+h1,h2,h3,h4,h5,h6{
+    font-family: 'IBM Plex Serif',
+    serif;
+}
+ /* IDs */
+ /* Custom Classes */
+ .plus-button{
+     font: 700;
+     font-size: 10vh;
+      background: #f5af19;
+    background: -webkit-linear-gradient(to right, #f12711, #f5af19);
+      background: linear-gradient(to right, #f12711, #f5af19);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+ }
+ .test-color1{
+     border: 2px solid #f12711;
+ }
