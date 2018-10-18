@@ -1,0 +1,16 @@
+{
+    "short_name": "Unveil!",
+    "name": "Portfolio Website",
+    "description": "A simple template for user portfolio website.",
+    "icons": [
+        {
+            "src": "assets/icon_150x150.png",
+            "sizes": "150x150",
+            "type": "image/pmg"
+        }
+    ],
+    "start_url": "/?utm_source=homescreen",
+    "background_color": "#0000",
+    "Theme_color": "#ffff",
+    "display": "minimal-ui"
+}

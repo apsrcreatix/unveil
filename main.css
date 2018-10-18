@@ -35,16 +35,10 @@ background: linear-gradient(to left, #4389A2, #5C258D);
  .plus-button{
      font: 700;
      font-size: 8vh;
-      background:  #5C258D;
-    background: -webkit-linear-gradient(to left, #4389A2,  #5C258D);
-      background: linear-gradient(to left, #4389A2,  #5C258D);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
  }
  .custom-link-a {
     text-decoration: none;
     border: none;
-
  }
 .brand-logos{
     width: 6vh;
@@ -53,14 +47,17 @@ background: linear-gradient(to left, #4389A2, #5C258D);
      margin-left: auto;
      margin-right: auto;
 }
+.gradient-text{
+      background: #5C258D;
+      background: -webkit-linear-gradient(to left, #4389A2, #5C258D);
+      background: linear-gradient(to left, #4389A2, #5C258D);
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+}
  .container-username {
      text-align: center;
-       background:  #5C258D;
-       background: -webkit-linear-gradient(to left, #4389A2,  #5C258D);
-       background: linear-gradient(to left, #4389A2,  #5C258D);
-       -webkit-background-clip: text;
-       background-clip: text;
-       -webkit-text-fill-color: transparent;
+     
  }
  .title-username {
      font-weight:800;
@@ -97,11 +94,5 @@ background: linear-gradient(to left, #4389A2, #5C258D);
      text-decoration-style: none;
      font-family: 'Montserrat',
      sans-serif;
-    background: #5C258D;
-    background: -webkit-linear-gradient(to left, #4389A2, #5C258D);
-    background: linear-gradient(to left, #4389A2, #5C258D);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
     font-size: 2vh;
  }
