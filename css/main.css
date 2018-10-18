@@ -20,12 +20,6 @@ background: linear-gradient(to left, #4389A2, #5C258D);
    font-family: 'Raleway',
    sans-serif;
  }
- /* html{
-      background:  #5C258D;
-      background: -webkit-linear-gradient(to left, #4389A2, #5C258D);
-      background: linear-gradient(to left, #4389A2,  #5C258D);
-
- } */
  body{
           margin: 1vh;
  }
@@ -70,11 +64,11 @@ background: linear-gradient(to left, #4389A2, #5C258D);
      height: 40vh;
      margin: 1vh;
      border-radius: 100vh;
-     border: 1vh whitesmoke solid;
-     -webkit-filter: drop-shadow(0 0 0.75rem #4389A2);
-     filter: drop-shadow(0 0 0.75rem gray);
+     border: 0.4vh whitesmoke solid;
+     -webkit-filter: drop-shadow(0 0 0.75rem #5C258D);
+     filter: drop-shadow(0 0 0.75rem #5C258D);
      background-image: linear-gradient(to left, #4389A2, #5C258D),
-         url("assets/user-logo.jpg");
+         url("../assets/user-logo.jpg");
        display: block;
        margin-left: auto;
        margin-right: auto;
@@ -95,4 +89,5 @@ background: linear-gradient(to left, #4389A2, #5C258D);
      font-family: 'Montserrat',
      sans-serif;
     font-size: 2vh;
+    font-weight: 600;
  }
