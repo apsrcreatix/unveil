@@ -6,25 +6,19 @@ sans-serif;
  */
  /* 
  UI GRADIENT
-background: #5C258D;
-background: -webkit-linear-gradient(to left, #4389A2, #5C258D);
-background: linear-gradient(to left, #4389A2, #5C258D);
-
-
-
-
-
+background: #f12711;
+background: -webkit-linear-gradient(to right, #f5af19, #f12711);
+background: linear-gradient(to right, #f5af19, #f12711);
 
  */
+ /* Default Classes */
  *{
    font-family: 'Raleway',
    sans-serif;
  }
  body{
-          margin: 1vh;
+    margin: 1vh;
  }
-/* Default Classes */
- /* IDs */
  /* Custom Classes */
  .plus-button{
      font: 700;
@@ -42,9 +36,9 @@ background: linear-gradient(to left, #4389A2, #5C258D);
      margin-right: auto;
 }
 .gradient-text{
-      background: #5C258D;
-      background: -webkit-linear-gradient(to left, #4389A2, #5C258D);
-      background: linear-gradient(to left, #4389A2, #5C258D);
+      background: #f12711;
+      background: -webkit-linear-gradient(to left, #f5af19, #f12711);
+      background: linear-gradient(to left, #f5af19, #f12711);
       -webkit-background-clip: text;
       background-clip: text;
       -webkit-text-fill-color: transparent;
@@ -65,9 +59,9 @@ background: linear-gradient(to left, #4389A2, #5C258D);
      margin: 1vh;
      border-radius: 100vh;
      border: 0.4vh whitesmoke solid;
-     -webkit-filter: drop-shadow(0 0 0.75rem #5C258D);
-     filter: drop-shadow(0 0 0.75rem #5C258D);
-     background-image: linear-gradient(to left, #4389A2, #5C258D),
+     -webkit-filter: drop-shadow(0 0 0.75rem #f12711);
+     filter: drop-shadow(0 0 0.75rem #f12711);
+     background-image: linear-gradient(to left, #f5af19, #f12711),
          url("../assets/userdata/user-logo.png");
        display: block;
        margin-left: auto;
