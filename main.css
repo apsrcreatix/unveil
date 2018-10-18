@@ -6,15 +6,26 @@ sans-serif;
  */
  /* 
  UI GRADIENT
- background: #f5af19;
- background: -webkit-linear-gradient(to right, #f12711, #f5af19);
- background: linear-gradient(to right, #f12711, #f5af19);
+background: #5C258D;
+background: -webkit-linear-gradient(to left, #4389A2, #5C258D);
+background: linear-gradient(to left, #4389A2, #5C258D);
+
+
+
+
+
 
  */
  *{
    font-family: 'Raleway',
    sans-serif;
  }
+ /* html{
+      background:  #5C258D;
+      background: -webkit-linear-gradient(to left, #4389A2, #5C258D);
+      background: linear-gradient(to left, #4389A2,  #5C258D);
+
+ } */
  body{
           margin: 1vh;
  }
@@ -24,9 +35,9 @@ sans-serif;
  .plus-button{
      font: 700;
      font-size: 8vh;
-      background: #f5af19;
-    background: -webkit-linear-gradient(to right, #f12711, #f5af19);
-      background: linear-gradient(to right, #f12711, #f5af19);
+      background:  #5C258D;
+    background: -webkit-linear-gradient(to left, #4389A2,  #5C258D);
+      background: linear-gradient(to left, #4389A2,  #5C258D);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
  }
@@ -44,10 +55,11 @@ sans-serif;
 }
  .container-username {
      text-align: center;
-       background: #f5af19;
-       background: -webkit-linear-gradient(to right, #f12711, #f5af19);
-       background: linear-gradient(to right, #f12711, #f5af19);
+       background:  #5C258D;
+       background: -webkit-linear-gradient(to left, #4389A2,  #5C258D);
+       background: linear-gradient(to left, #4389A2,  #5C258D);
        -webkit-background-clip: text;
+       background-clip: text;
        -webkit-text-fill-color: transparent;
  }
  .title-username {
@@ -61,13 +73,35 @@ sans-serif;
      height: 40vh;
      margin: 1vh;
      border-radius: 100vh;
-     -webkit-filter: drop-shadow(0 0 0.75rem gray);
+     border: 1vh whitesmoke solid;
+     -webkit-filter: drop-shadow(0 0 0.75rem #4389A2);
      filter: drop-shadow(0 0 0.75rem gray);
-     background-image: linear-gradient(to right, #fbc7d454, #9796f052),
+     background-image: linear-gradient(to left, #4389A2, #5C258D),
          url("assets/user-logo.jpg");
        display: block;
        margin-left: auto;
        margin-right: auto;
- 
+  }
+ .description{
+       font-family: 'Raleway',
+       sans-serif;
+       color: gray;
+       font-size: 2vh;
+       padding: 1vh;
  }
- 
+ .description-links,
+ .description-links :hover,
+ .description-links :active,
+ .description-links :disabled{
+     text-decoration:none;
+     text-decoration-style: none;
+     font-family: 'Montserrat',
+     sans-serif;
+    background: #5C258D;
+    background: -webkit-linear-gradient(to left, #4389A2, #5C258D);
+    background: linear-gradient(to left, #4389A2, #5C258D);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2vh;
+ }
