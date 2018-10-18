@@ -1,8 +1,8 @@
 /* 
-font-family: 'IBM Plex Serif',
-serif;
-font-family: 'IBM Plex Mono',
-monospace;
+font-family: 'Raleway',
+sans-serif;
+font-family: 'Montserrat',
+sans-serif;
  */
  /* 
  UI GRADIENT
@@ -12,25 +12,62 @@ monospace;
 
  */
  *{
-    font-family: 'IBM Plex Mono',
-    monospace;
+   font-family: 'Raleway',
+   sans-serif;
+ }
+ body{
+          margin: 1vh;
  }
 /* Default Classes */
-h1,h2,h3,h4,h5,h6{
-    font-family: 'IBM Plex Serif',
-    serif;
-}
  /* IDs */
  /* Custom Classes */
  .plus-button{
      font: 700;
-     font-size: 10vh;
+     font-size: 8vh;
       background: #f5af19;
     background: -webkit-linear-gradient(to right, #f12711, #f5af19);
       background: linear-gradient(to right, #f12711, #f5af19);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
  }
- .test-color1{
-     border: 2px solid #f12711;
+ .custom-link-a {
+    text-decoration: none;
+    border: none;
+
  }
+.brand-logos{
+    width: 6vh;
+    height: auto;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+}
+ .container-username {
+     text-align: center;
+       background: #f5af19;
+       background: -webkit-linear-gradient(to right, #f12711, #f5af19);
+       background: linear-gradient(to right, #f12711, #f5af19);
+       -webkit-background-clip: text;
+       -webkit-text-fill-color: transparent;
+ }
+ .title-username {
+     font-weight:800;
+     font-size: 5vh;
+     text-transform: uppercase;
+     font-family: 'Montserrat',
+     sans-serif;
+ }
+ .container-photo {
+     height: 40vh;
+     margin: 1vh;
+     border-radius: 100vh;
+     -webkit-filter: drop-shadow(0 0 0.75rem gray);
+     filter: drop-shadow(0 0 0.75rem gray);
+     background-image: linear-gradient(to right, #fbc7d454, #9796f052),
+         url("assets/user-logo.jpg");
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+ 
+ }
+ 
