@@ -5,10 +5,10 @@ font-family: 'Montserrat',
 sans-serif;
  */
  /* 
- UI GRADIENT
-background: #f12711;
-background: -webkit-linear-gradient(to right, #f5af19, #f12711);
-background: linear-gradient(to right, #f5af19, #f12711);
+background: #232526;
+background: -webkit-linear-gradient(to right, #414345, #232526);
+background: linear-gradient(to right, #414345, #232526);
+
 
  */
  /* Default Classes */
@@ -36,9 +36,9 @@ background: linear-gradient(to right, #f5af19, #f12711);
      margin-right: auto;
 }
 .gradient-text{
-      background: #f12711;
-      background: -webkit-linear-gradient(to left, #f5af19, #f12711);
-      background: linear-gradient(to left, #f5af19, #f12711);
+      background: #232526;
+      background: -webkit-linear-gradient(to left, #414345, #232526);
+      background: linear-gradient(to left, #414345, #232526);
       -webkit-background-clip: text;
       background-clip: text;
       -webkit-text-fill-color: transparent;
@@ -59,9 +59,9 @@ background: linear-gradient(to right, #f5af19, #f12711);
      margin: 1vh;
      border-radius: 100vh;
      border: 0.4vh whitesmoke solid;
-     -webkit-filter: drop-shadow(0 0 0.75rem #f12711);
-     filter: drop-shadow(0 0 0.75rem #f12711);
-     background-image: linear-gradient(to left, #f5af19, #f12711),
+     -webkit-filter: drop-shadow(0 0 0.75rem #232526);
+     filter: drop-shadow(0 0 0.75rem #232526);
+     background-image: linear-gradient(to left, #414345, #232526),
          url("../assets/userdata/user-logo.png");
        display: block;
        margin-left: auto;
