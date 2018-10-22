@@ -1,19 +1,17 @@
 /* 
-font-family: 'Raleway',
+
+font-family: 'IBM Plex Sans',
 sans-serif;
-font-family: 'Montserrat',
-sans-serif;
+
  */
  /* 
-background: #232526;
-background: -webkit-linear-gradient(to right, #414345, #232526);
-background: linear-gradient(to right, #414345, #232526);
-
-
+background: #283c86;
+background: -webkit-linear-gradient(to left, #45a247, #283c86);
+background: linear-gradient(to left, #45a247, #283c86);
  */
  /* Default Classes */
  *{
-   font-family: 'Raleway',
+   font-family: 'IBM Plex Sans',
    sans-serif;
  }
  body{
@@ -36,9 +34,9 @@ background: linear-gradient(to right, #414345, #232526);
      margin-right: auto;
 }
 .gradient-text{
-      background: #232526;
-      background: -webkit-linear-gradient(to left, #414345, #232526);
-      background: linear-gradient(to left, #414345, #232526);
+      background:  #283c86;
+      background: -webkit-linear-gradient(to left, #45a247,  #283c86);
+      background: linear-gradient(to left, #45a247,  #283c86);
       -webkit-background-clip: text;
       background-clip: text;
       -webkit-text-fill-color: transparent;
@@ -51,37 +49,68 @@ background: linear-gradient(to right, #414345, #232526);
      font-weight:800;
      font-size: 5vh;
      text-transform: uppercase;
-     font-family: 'Montserrat',
-     sans-serif;
  }
  .container-photo {
      height: 40vh;
      margin: 1vh;
      border-radius: 100vh;
      border: 0.4vh whitesmoke solid;
-     -webkit-filter: drop-shadow(0 0 0.75rem #232526);
-     filter: drop-shadow(0 0 0.75rem #232526);
-     background-image: linear-gradient(to left, #414345, #232526),
-         url("../userinfo/profile-photo/photo.png");
+     -webkit-filter: drop-shadow(0 0 0.75rem  #283c86);
+     filter: drop-shadow(0 0 0.75rem  #283c86);
        display: block;
        margin-left: auto;
        margin-right: auto;
   }
  .biography{
-       font-family: 'Raleway',
-       sans-serif;
-       color: gray;
-       font-size: 2vh;
+       color: rgb(100, 100, 100);
+       font-size: 3vh;
        padding: 1vh;
- }
+        text-align: center;
+    }
  .biography-links,
  .biography-links :hover,
  .biography-links :active,
  .biography-links :disabled {
      text-decoration:none;
      text-decoration-style: none;
-     font-family: 'Montserrat',
-     sans-serif;
     font-size: 2vh;
     font-weight: 600;
  }
+/* adding animations */
+ .biography{
+     animation-name: moveFromBottom;
+     animation-duration: 3s;
+     animation-timing-function: ease-in-out;
+ }
+ 
+ .container-photo{
+     animation-name: moveFromBottom;
+     animation-duration: 1.5s;
+     animation-timing-function: ease-in-out;
+ }
+ .title-username{
+     animation-name: moveFromBottom;
+     animation-duration: 2s;
+     animation-timing-function: ease-in-out;
+ }
+ .container-username{
+     animation-name: moveFromBottom;
+     animation-duration: 2s;
+     animation-timing-function: ease-in-out;
+ }
+ .navbar{
+     animation-name: moveFromBottom;
+     animation-duration: 1.5s;
+     animation-timing-function: ease-in-out;
+ }
+/* making custom animations  */
+@keyframes moveFromBottom {
+    0% {
+        opacity: 0;
+        transform: translateY(150px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
