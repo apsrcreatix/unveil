@@ -67,17 +67,17 @@ background: linear-gradient(to right, #414345, #232526);
        margin-left: auto;
        margin-right: auto;
   }
- .description{
+ .biography{
        font-family: 'Raleway',
        sans-serif;
        color: gray;
        font-size: 2vh;
        padding: 1vh;
  }
- .description-links,
- .description-links :hover,
- .description-links :active,
- .description-links :disabled{
+ .biography-links,
+ .biography-links :hover,
+ .biography-links :active,
+ .biography-links :disabled {
      text-decoration:none;
      text-decoration-style: none;
      font-family: 'Montserrat',
