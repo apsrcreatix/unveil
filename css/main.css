@@ -1,18 +1,22 @@
 /* 
 
-font-family: 'IBM Plex Sans',
+font-family: 'Abril Fatface',
+cursive;
+
+font-family: 'Raleway',
 sans-serif;
+
 
  */
  /* 
-background: #283c86;
-background: -webkit-linear-gradient(to left, #45a247, #283c86);
-background: linear-gradient(to left, #45a247, #283c86);
+background: #232526;
+background: -webkit-linear-gradient(to right, #414345, #232526);
+background: linear-gradient(to right, #414345, #232526);
  */
  /* Default Classes */
  *{
-   font-family: 'IBM Plex Sans',
-   sans-serif;
+font-family: 'Raleway',
+sans-serif;
  }
  body{
     margin: 1vh;
@@ -20,9 +24,9 @@ background: linear-gradient(to left, #45a247, #283c86);
  }
  /* Custom Classes */
  .gradient{
-           background: #283c86;
-           background: -webkit-linear-gradient(to left, #45a247, #283c86);
-           background: linear-gradient(to left, #45a247, #283c86);
+background: #232526;
+background: -webkit-linear-gradient(to right, #414345, #232526);
+background: linear-gradient(to right, #414345, #232526);
  }
 
  .plus-button{
@@ -52,17 +56,18 @@ background: linear-gradient(to left, #45a247, #283c86);
      
  }
  .title-username {
-     font-weight:800;
-     font-size: 5vh;
+     font-size: 8vh;
      text-transform: uppercase;
+     font-family: 'Abril Fatface',
+     cursive;
  }
  .container-photo {
      height: 40vh;
      margin: 1vh;
      border-radius: 100vh;
      border: none;
-     -webkit-filter: drop-shadow(0 0 0.75rem  #283c86);
-     filter: drop-shadow(0 0 0.75rem  #283c86);
+     -webkit-filter: drop-shadow(0 0 0.75rem #232526);
+     filter: drop-shadow(0 0 0.75rem #232526);
        display: block;
        margin-left: auto;
        margin-right: auto;
