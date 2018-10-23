@@ -30,7 +30,7 @@ background: linear-gradient(to right, #414345, #232526);
  }
 
  .plus-button{
-     font: 700;
+     font-weight: 700;
      font-size: 8vh;
  }
  .custom-link-a {
@@ -63,15 +63,13 @@ background: linear-gradient(to right, #414345, #232526);
  }
  .container-photo {
      height: 40vh;
-     margin: 1vh;
      border-radius: 100vh;
      border: none;
      -webkit-filter: drop-shadow(0 0 0.75rem #232526);
      filter: drop-shadow(0 0 0.75rem #232526);
        display: block;
-       margin-left: auto;
-       margin-right: auto;
-  }
+     margin: 1vh auto;
+ }
  .biography{
        color: rgb(100, 100, 100);
        font-size: 3vh;
@@ -79,11 +77,11 @@ background: linear-gradient(to right, #414345, #232526);
         text-align: center;
     }
  .biography-links,
- .biography-links :hover,
  .biography-links :active,
+ .biography-links :hover,
  .biography-links :disabled {
      text-decoration:none;
-     text-decoration-style: none;
+     text-decoration-style: unset;
     font-size: 2.5vh;
     font-weight: 600;
  }
