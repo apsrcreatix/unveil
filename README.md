@@ -29,6 +29,6 @@
 
 ### On Tablets
 
-   <img src="https://github.com/apsrcreatix/unveil/blob/master/unveil-docs/ipad.png" data-canonical-src="https://github.com/apsrcreatix/unveil/blob/master/unveil-docs/ipad.png" width="200" height="400" />
+   <img src="https://github.com/apsrcreatix/unveil/blob/master/unveil-docs/ipad.png" data-canonical-src="https://github.com/apsrcreatix/unveil/blob/master/unveil-docs/ipad.png" width="400"/>
 
  
