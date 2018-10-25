@@ -19,7 +19,7 @@ font-family: 'Raleway',
 sans-serif;
  }
  body{
-    margin: 1vh;
+    margin: 1vmin;
     background: whitesmoke;
  }
   a,
@@ -31,7 +31,7 @@ sans-serif;
       font-weight: 700 !important;
   }
  #corner-button {
-     font-size: 5vmax;
+     font-size: 6vmax;
      display: block;
      padding: 5px 10px;
  }  
