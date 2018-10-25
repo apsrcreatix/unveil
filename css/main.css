@@ -22,76 +22,63 @@ sans-serif;
     margin: 1vh;
     background: whitesmoke;
  }
- /* Custom Classes */
- .gradient{
-background: #232526;
-background: -webkit-linear-gradient(to right, #414345, #232526);
-background: linear-gradient(to right, #414345, #232526);
- }
-
- .plus-button{
-     font-weight: 700;
-     font-size: 8vh;
- }
+  a,
+  a :active,
+  a :hover,
+  a :disabled {
+      text-decoration: none !important;
+      font-size: 2.5vh;
+      font-weight: 700 !important;
+  }
+ #corner-button {
+     font-size: 5vmax;
+     display: block;
+     padding: 5px 10px;
+ }  
  .custom-link-a {
     text-decoration: none;
     border: none;
     background: transparent;
  }
 .brand-logos{
-    width: 6vh;
+    width: 4vmax;
     height: auto;
      display: block;
      margin-left: auto;
      margin-right: auto;
 }
-.gradient-text{
-
-      -webkit-background-clip: text;
-      background-clip: text;
-      -webkit-text-fill-color: transparent;
-}
  .container-username {
      text-align: center;
-     
+     width: 100%;  
  }
  .title-username {
-     font-size: 8vh;
+     font-size: 5vmax;
      text-transform: uppercase;
      font-family: 'Abril Fatface',
      cursive;
+     margin: 0;
  }
  .container-photo {
-     height: 40vh;
+     height: 30vmax;
      border-radius: 100vh;
-     border: none;
-     -webkit-filter: drop-shadow(0 0 0.75rem #232526);
-     filter: drop-shadow(0 0 0.75rem #232526);
+     border: none;  
        display: block;
      margin: 1vh auto;
  }
  .biography{
        color: rgb(100, 100, 100);
-       font-size: 3vh;
-       padding: 1vh;
+       font-size: 2vmax;
+       padding: 1vw;
+       margin-top: 1vmin;
         text-align: center;
     }
- .biography-links,
- .biography-links :active,
- .biography-links :hover,
- .biography-links :disabled {
-     text-decoration:none;
-     text-decoration-style: unset;
-    font-size: 2.5vh;
-    font-weight: 600;
- }
+
  .footer{
      display: block;
      text-align: center;
-     color: gray;
+     color: slategrey;
  }
 /* adding animations */
-
 
 .navbar{
     animation-name: moveFromBottom;
@@ -133,4 +120,24 @@ background: linear-gradient(to right, #414345, #232526);
         opacity: 1;
         transform: translateY(0);
     }
+}
+
+/* SCROLLBAR */
+/* width */
+::-webkit-scrollbar {
+    width: 1vw;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #232526;
+    background: -webkit-linear-gradient(to right, #414345, #232526);
+    background: linear-gradient(to right, #414345, #232526);
+    border-radius: 10px;
 }
