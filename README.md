@@ -1,5 +1,13 @@
 # UNVEIL
 <img src="https://github.com/apsrcreatix/unveil/blob/master/assets/icons/icon_640.png" data-canonical-src="https://github.com/apsrcreatix/unveil/blob/master/assets/icons/icon_640.png" width="200" height="200" />
+- [UNVEIL](#unveil)
+    - [ABOUT UNVEIL](#about-unveil)
+    - [STEPS TO FOLLOW](#steps-to-follow)
+    - [HOW IT LOOKS](#how-it-looks)
+        - [On Bigger Screens](#on-bigger-screens)
+        - [On Mobile Phones](#on-mobile-phones)
+        - [On Tablets](#on-tablets)
+    - [USE CASE](#use-case)
 
 ## ABOUT UNVEIL
 
