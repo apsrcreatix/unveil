@@ -55,7 +55,12 @@
 
    1. Example : "name": "unveil" => "name" : "Aditya Pratap Singh Rajput"
 
-6. Commit changes. **Done !**.
+6. Comment the sections you are not going to use, For example.
+
+   1. Footer : make footer comment.
+   2. Link you don't use : If you don't use dribble or facebook or any other website just comment that section by finding their name in index.html.
+
+7. Commit changes. Save.**Done !**.
 
 ## 𝙷𝙾𝚆 𝙸𝚃 𝙻𝙾𝙾𝙺𝚂
 
@@ -76,6 +81,8 @@
 ## 𝚄𝚂𝙴 𝙲𝙰𝚂𝙴
 
 <img src="https://github.com/apsrcreatix/unveil/blob/master/unveil-docs/use-case.png" data-canonical-src="https://github.com/apsrcreatix/unveil/blob/master/unveil-docs/use-case.png" width="400"/>
+
+[apsrcreatix.me](apsrcreatix.me)
 
 ## 𝓝𝓞𝓣𝓔 
 
