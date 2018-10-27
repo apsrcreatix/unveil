@@ -1,15 +1,15 @@
 # 𝓤𝓝𝓥𝓔𝓘𝓛
 <img src="https://github.com/apsrcreatix/unveil/blob/master/assets/icons/icon_640.png" data-canonical-src="https://github.com/apsrcreatix/unveil/blob/master/assets/icons/icon_640.png" width="200" height="200" />
 
-- [UNVEIL](#unveil)
-    - [ABOUT UNVEIL](#about-unveil)
-    - [STEPS TO FOLLOW](#steps-to-follow)
-    - [HOW IT LOOKS](#how-it-looks)
-        - [On Bigger Screens](#on-bigger-screens)
-        - [On Mobile Phones](#on-mobile-phones)
-        - [On Tablets](#on-tablets)
-    - [USE CASE](#use-case)
-    - [NOTE](#note)
+- [UNVEIL](#𝓤𝓝𝓥𝓔𝓘𝓛)
+    - [ABOUT UNVEIL](#𝙰𝙱𝙾𝚄𝚃-𝚄𝙽𝚅𝙴𝙸𝙻)
+    - [STEPS TO FOLLOW](#𝚂𝚃𝙴𝙿𝚂-𝚃𝙾-𝙵𝙾𝙻𝙻𝙾𝚆)
+    - [HOW IT LOOKS](#𝙷𝙾𝚆-𝙸𝚃-𝙻𝙾𝙾𝙺𝚂)
+        - [On Bigger Screens](#𝙾𝚗-𝙱𝚒𝚐𝚐𝚎𝚛-𝚂𝚌𝚛𝚎𝚎𝚗𝚜)
+        - [On Mobile Phones](#𝙾𝚗-𝙼𝚘𝚋𝚒𝚕𝚎-𝙿𝚑𝚘𝚗𝚎𝚜)
+        - [On Tablets](#𝙾𝚗-𝙼𝚘𝚋𝚒𝚕𝚎-𝙿𝚑𝚘𝚗𝚎𝚜)
+    - [SHOW CASE](#𝚄𝚂𝙴-𝙲𝙰𝚂𝙴)
+    - [NOTE](#𝓝𝓞𝓣𝓔 )
 
 ## 𝙰𝙱𝙾𝚄𝚃 𝚄𝙽𝚅𝙴𝙸𝙻
 
@@ -83,4 +83,4 @@
 >
 > **𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚊𝚒𝚜𝚎 𝚒𝚜𝚜𝚞𝚎𝚜**
 >
-> 𝓒𝓻𝓮𝓪𝓽𝓮𝓭 𝔀𝓲𝓽𝓱 ☕ 𝓫𝔂 @𝓪𝓹𝓼𝓻𝓬𝓻𝓮𝓪𝓽𝓲𝔁
+> 𝓒𝓻𝓮𝓪𝓽𝓮𝓭 𝔀𝓲𝓽𝓱 ☕ 𝓫𝔂 𝓪𝓹𝓼𝓻𝓬𝓻𝓮𝓪𝓽𝓲𝔁
