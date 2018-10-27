@@ -1,4 +1,4 @@
-# UNVEIL
+# 𝓤𝓝𝓥𝓔𝓘𝓛
 <img src="https://github.com/apsrcreatix/unveil/blob/master/assets/icons/icon_640.png" data-canonical-src="https://github.com/apsrcreatix/unveil/blob/master/assets/icons/icon_640.png" width="200" height="200" />
 
 - [UNVEIL](#unveil)
@@ -9,13 +9,14 @@
         - [On Mobile Phones](#on-mobile-phones)
         - [On Tablets](#on-tablets)
     - [USE CASE](#use-case)
+    - [NOTE](#note)
 
-## ABOUT UNVEIL
+## 𝙰𝙱𝙾𝚄𝚃 𝚄𝙽𝚅𝙴𝙸𝙻
 
 - Are you looking for a quick intro website with minimal efforts ? 
 - Unveil is a template works with GitHub Pages pages and gives you contact website in just few minutes. ! 
 
-## STEPS TO FOLLOW
+## 𝚂𝚃𝙴𝙿𝚂 𝚃𝙾 𝙵𝙾𝙻𝙻𝙾𝚆
 
 1. Fork this repository.
 
@@ -44,8 +45,8 @@
            "youtube" : "#",
        },
        "colors" : {
-       "primary-color": "Put a nice color code in HEX here eg: #23526",
-       "secondary-color": "Put anohter color for gradient effect"
+       "primary-color" : "Put a nice color code in HEX here eg: #23526",
+       "secondary-color" : "Put anohter color for gradient effect"
        }
    };
    ```
@@ -54,28 +55,32 @@
 
    1. Example : "name": "unveil" => "name" : "Aditya Pratap Singh Rajput"
 
-6. Commit changes. **Done !**
+6. Commit changes. **Done !**.
 
+## 𝙷𝙾𝚆 𝙸𝚃 𝙻𝙾𝙾𝙺𝚂
 
-
-## HOW IT LOOKS
-
-### On Bigger Screens 
+### 𝙾𝚗 𝙱𝚒𝚐𝚐𝚎𝚛 𝚂𝚌𝚛𝚎𝚎𝚗𝚜 
 
    <img src="https://github.com/apsrcreatix/unveil/blob/master/unveil-docs/bigger-screen.png" data-canonical-src="https://github.com/apsrcreatix/unveil/blob/master/unveil-docs/bigger-screen.png"/>
 
-### On Mobile Phones
+### 𝙾𝚗 𝙼𝚘𝚋𝚒𝚕𝚎 𝙿𝚑𝚘𝚗𝚎𝚜
 
    <img src="https://github.com/apsrcreatix/unveil/blob/master/unveil-docs/iphone-1.png" data-canonical-src="https://github.com/apsrcreatix/unveil/blob/master/unveil-docs/iphone-1.png" width="200" height="400" />
 
    <img src="https://github.com/apsrcreatix/unveil/blob/master/unveil-docs/iphone.png" data-canonical-src="https://github.com/apsrcreatix/unveil/blob/master/unveil-docs/iphone.png" width="200" height="400" />
 
-### On Tablets
+### 𝙾𝚗 𝚃𝚊𝚋𝚕𝚎𝚝𝚜
 
    <img src="https://github.com/apsrcreatix/unveil/blob/master/unveil-docs/ipad.png" data-canonical-src="https://github.com/apsrcreatix/unveil/blob/master/unveil-docs/ipad.png" width="400"/>
 
-## USE CASE
+## 𝚄𝚂𝙴 𝙲𝙰𝚂𝙴
 
 <img src="https://github.com/apsrcreatix/unveil/blob/master/unveil-docs/use-case.png" data-canonical-src="https://github.com/apsrcreatix/unveil/blob/master/unveil-docs/use-case.png" width="400"/>
 
- 
+## 𝓝𝓞𝓣𝓔 
+
+> **𝓒𝓻𝓮𝓪𝓽𝓮 𝔂𝓸𝓾𝓻 𝓸𝔀𝓷 𝓿𝓲𝓼𝓾𝓪𝓵 𝓼𝓽𝔂𝓵𝓮... 𝓵𝓮𝓽 𝓲𝓽 𝓫𝓮 𝓾𝓷𝓲𝓺𝓾𝓮 𝓯𝓸𝓻 𝔂𝓸𝓾𝓻𝓼𝓮𝓵𝓯 𝓪𝓷𝓭 𝔂𝓮𝓽 𝓲𝓭𝓮𝓷𝓽𝓲𝓯𝓲𝓪𝓫𝓵𝓮 𝓯𝓸𝓻 𝓸𝓽𝓱𝓮𝓻𝓼.**  **by Orson Welles**
+>
+> **𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚊𝚒𝚜𝚎 𝚒𝚜𝚜𝚞𝚎𝚜**
+>
+> 𝓒𝓻𝓮𝓪𝓽𝓮𝓭 𝔀𝓲𝓽𝓱 ☕ 𝓫𝔂 @𝓪𝓹𝓼𝓻𝓬𝓻𝓮𝓪𝓽𝓲𝔁
