@@ -1,5 +1,5 @@
 # 
-<div style = "text-align:center;font-size:4vw;background: #232526;background: -webkit-linear-gradient(to right, #414345,#232526);background: linear-gradient(to right, #414345, #232526);-webkit-background-clip:text;background-clip:text; -webkit-text-fill-color: transparent;"><img style = "-webkit-filter: drop-shadow(0 0 0.75rem #232526);filter:drop-shadow(0 0 0.75rem #232526);" src="https://github.com/apsrcreatix/unveil/blob/master/assets/icons/icon_640.png" data-canonical-src="https://github.com/apsrcreatix/unveil/blob/master/assets/icons/icon_640.png" width="100" height="100" />UNVEIL</div>
+<div style = "text-align:center;font-size:4vw;background: #232526;background: -webkit-linear-gradient(to right, #414345,#232526);background: linear-gradient(to right, #414345, #232526);-webkit-background-clip:text;background-clip:text; -webkit-text-fill-color: transparent;"><img style = "-webkit-filter: drop-shadow(0 0 0.75rem #232526);filter:drop-shadow(0 0 0.75rem #232526);" src="https://github.com/apsrcreatix/unveil/blob/master/assets/icons/icon_640.png" data-canonical-src="https://github.com/apsrcreatix/unveil/blob/master/assets/icons/icon_640.png" width="100" height="100" />𝓾𝓷𝓿𝓮𝓲𝓵</div>
 
 ## About unveil
 
